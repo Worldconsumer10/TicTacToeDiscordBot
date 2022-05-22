@@ -1,0 +1,39 @@
+{
+  "name": "tic-tac-toebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "install":{
+    "include":[
+      "^package\\.json$"
+    ]
+  },
+  "bin": "index.js",
+  "pkg": {
+    "assets": [
+      "node_modules/**/*",
+      "events/*",
+      "commands/*",
+      "matchutils/*"
+    ],
+    "targets": [
+      "node10-win-x64"
+    ]
+  },
+  "author": "Ubunifu",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord-image-generation": "^1.4.13",
+    "discord.js": "^13.7.0",
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.3.4",
+    "pkg": "^5.7.0",
+    "random-avatar-generator": "^2.0.0",
+    "random-image-creator": "^2.0.2",
+    "random-profile-generator": "^2.3.0"
+  }
+}

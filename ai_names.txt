@@ -1,0 +1,12 @@
+{"tier":"WeakAI","name":"Jerry","win":["GG","*Mouse Noises*"],"lose":["Well i tried!","*Sad Mouse Noises*"],"start":["Lets roll!","*Mouse Noises*"]}
+{"tier":"WeakAI","name":"Tom","win":["GG","*Happy Cat Noises*"],"lose":["Well i tried!","*Angry Cat Noises*"],"start":["Lets roll!","*Cat Noises*"]}
+{"tier":"WeakAI","name":"Barry","win":["GG"],"lose":["Well i tried!"],"start":["Lets roll!"]}
+{"tier":"WeakAI","name":"Emmy","win":["GG"],"lose":["Well i tried!"],"start":["Lets roll!"]}
+{"tier":"WeakAI","name":"Carol","win":["GG"],"lose":["Well i tried!"],"start":["Lets roll!"]}
+{"tier":"NeuAI","name":"Karen","win":["This win is for my kids","Thats what you get!"],"lose":["I want to talk to your manager!","*Autistic Screaming*"],"start":["I want to talk to your manager"]}
+{"tier":"NeuAI","name":"HR","win":["Thats why you dont mess with me!"],"lose":["Ill see you in my office!"],"start":["Lets roll!"]}
+{"tier":"NeuAI","name":"Baron","win":["Sand","Ez","Skill Issue"],"lose":["It was lag","Crap"],"start":["Lets do this!"]}
+{"tier":"NeuAI","name":"Matty","win":["*Scottish Noises*"],"lose":["*Bagpipes*"],"start":["???"]}
+{"tier":"NeuAI","name":"Banana","win":["I code that bitch","Fuck Anni","Fuck Ryan","CUM"],"lose":["Fuck","Well Shit..","Beans *leaves*"],"start":["I bet ill win!","This should be easy"]}
+{"tier":"HardAI","name":"Matthew","win":["I knew id win!","Im so good","GG"],"lose":["GG"],"start":["Im sure ill win","Good Luck!"]}
+{"tier":"HardAI","name":"Amelia","win":["Too easy!"],"lose":["Well i guess it wasnt easy..","GG"],"start":["This should be easy..","Good Luck!"]}
